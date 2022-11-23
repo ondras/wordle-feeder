@@ -7,4 +7,6 @@ This simple puppeteer script makes two opposing Wordle implementations play agai
   
 If everything goes right, both games are won (guessed) at the same time.
 
-[See it in action on YouTube](https://youtu.be/Ee0JMmPTCT4)
+See it in action on YouTube:
+
+[![](https://img.youtube.com/vi/Ee0JMmPTCT4/0.jpg)](https://www.youtube.com/watch?v=Ee0JMmPTCT4)
